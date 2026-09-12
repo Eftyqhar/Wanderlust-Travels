@@ -1,4 +1,4 @@
-# 🌍 Wanderlust Travels — Luxury Travel Agency & Booking Platform
+# 🌍 Wanderlust Travels — Luxury Travel Agency & Booking Platform (UI-Only)
 
 An end-to-end, high-end travel agency booking web platform crafted with **React, Vite, and Tailwind CSS**. Designed for discerning travelers, the platform features curated tour packages, 5-star hotel selection, private transport charters, interactive custom day-by-day itineraries, multi-gateway payment checkout, an active client portal, and verified digital travel documents.
 
@@ -6,26 +6,12 @@ An end-to-end, high-end travel agency booking web platform crafted with **React,
 
 ## 📸 Website UI Previews
 
-### 1. Luxury Discovery & Multi-Tab Booking Bar (Option 1 Design)
 *Emerald Green & Warm Gold luxury aesthetics, floating multi-tab booking search bar, curated package cards, and a visual day-by-day itinerary teaser.*
 
 ![Luxury Travel Discovery & Package Explorer](screenshots/travel_ui_luxury.jpg)
 
 ---
 
-### 2. Custom Itinerary, Hotels & Booking Flow
-*Interactive day-by-day itinerary planner, luxury suites tier selection, private chauffeur transfers, and transparent order checkout.*
-
-![Booking Flow & Custom Itinerary Planner](screenshots/travel_ui_booking.jpg)
-
----
-
-### 3. VIP Customer Portal & Travel Documents Hub
-*Client dashboard with real-time departure countdown timer, live flight tracker, assigned 24/7 concierge, and downloadable e-Tickets with QR passes.*
-
-![Customer Portal & Travel Documents Hub](screenshots/travel_ui_portal.jpg)
-
----
 
 ## ✨ Key Features & Modules
 
